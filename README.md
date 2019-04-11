@@ -2,4 +2,4 @@
 Authors: <a href="https://github.com/AYSH20">Ayesha Bhimdiwala</a>, <a href="https://github.com/suunni">Sunanda</a>, <a href="https://github.com/janumudvari">Janaki </a>
 
 ## Below is the final rank of our best model:
-![Image of Score](https://github.com/AYSH20/education-reboot/images/screenshotScore.png)
+![Image of Score](https://github.com/AYSH20/education-reboot/blob/master/images/screenshotScore.png)
